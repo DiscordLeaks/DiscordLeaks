@@ -1,12 +1,12 @@
 # Discord Experiments
 
-! [Experiments] (https://github.com/DiscordLeaks/DiscordLeaks/blob/main/screenshots/experiments.png)
+![Experiments](https://raw.githubusercontent.com/DiscordLeaks/DiscordLeaks/main/screenshots/experiments.png)
 
 The Discord Experiments tab is a hidden tab on Discord that allows you to enable features that are not fully in Discord yet. 
 
 ## How to enable it
 
-Open Discord, press Ctrl + Shift + I (on Windows) to open Discord Console ! [Console] (https://github.com/DiscordLeaks/DiscordLeaks/blob/main/screenshots/console.png)
+Open Discord, press Ctrl + Shift + I (on Windows) to open Discord Console: ![Console](https://raw.githubusercontent.com/DiscordLeaks/DiscordLeaks/main/screenshots/console.png)
 
 ```
 (() => {
